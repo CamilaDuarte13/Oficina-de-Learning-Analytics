@@ -67,11 +67,11 @@
 
 ``` 
 
-# Projeto `Analisando parâmetros multidimensionais: como direcionar o foco na vacinação prioritária de populações-chave?` 
+# Projeto 
 
   
 
-# Project `Analyzing multidimensional parameters: how to direct the focus on priority vaccination of key populations?` 
+# Project  
 
   
 
