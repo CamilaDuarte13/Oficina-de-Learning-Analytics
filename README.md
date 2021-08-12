@@ -85,7 +85,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 
 | Nome  | Especialização | 
 
-| :---: | :-----------: | 
+| :-: | :-: | 
 
 | Fernanda Monteiro| Ciência da Informação | 
 
